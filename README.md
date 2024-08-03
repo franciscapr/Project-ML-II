@@ -43,4 +43,4 @@ Las contribuciones a este proyecto son bienvenidas.
 Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
 ### Contacto
-Para preguntas o comentarios sobre este proyecto, puedes contactarme en [francisca.paredes.pr@gmail.com] o abrir un issue en el repositorio.
+Para preguntas o comentarios sobre este proyecto, puedes contactarme en francisca.paredes.pr@gmail.com o abrir un issue en el repositorio.
